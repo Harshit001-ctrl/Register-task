@@ -3,6 +3,13 @@ install all dependiences like react , luicide icon , react style components
 
 Live link of the project it is deployed on vercel - https://register-task-tq62.vercel.app/ 
 
+speed test result of my website -  Desktop view
+![alt text](https://github.com/Harshit001-ctrl/Register-task/blob/385e1e80022f26ca0e9a7f83b9e9b88597b26cb7/speed%20destop.png)
+
+Mobile view
+![alt text](https://github.com/Harshit001-ctrl/Register-task/blob/385e1e80022f26ca0e9a7f83b9e9b88597b26cb7/speed%20mobil.png)
+
+
 First, I share the image of the code and then the image of that particular part on the website.
 1 Main layout
 ![alt text](https://github.com/Harshit001-ctrl/Register-task/blob/101cc9ee413328296a8a2ff8f9940ca20bf53634/app.png)
