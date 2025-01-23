@@ -37,12 +37,12 @@ here live image
 here live image
 ![alt text](https://github.com/Harshit001-ctrl/Register-task/blob/3bc2f31d186a94888a382c6ac80a370ed32a091c/clients%20image.png)
 
-7 Client section
+7 Blog section
 ![alt text](https://github.com/Harshit001-ctrl/Register-task/blob/3bc2f31d186a94888a382c6ac80a370ed32a091c/blog.png)
 here live image
 ![alt text](https://github.com/Harshit001-ctrl/Register-task/blob/3bc2f31d186a94888a382c6ac80a370ed32a091c/blog%20image.png)
 
-8 Blog section
+8 Testimonial section
 ![alt text](https://github.com/Harshit001-ctrl/Register-task/blob/3bc2f31d186a94888a382c6ac80a370ed32a091c/testimonial.png)
 
 here is the live image
