@@ -22,12 +22,12 @@ here is the live image
 here live image 
 ![alt text](https://github.com/Harshit001-ctrl/Register-task/blob/150f48b8227b4c0467d21c0f60c8a30d6993e613/trust%20%26%20service.png)
 
-4 Service section
+4 Service and Register section
 ![alt text](https://github.com/Harshit001-ctrl/Register-task/blob/aa5672e44c18e1d1a9bda34e0da5a1f406cd64a0/register%20code%20.png)
 here live image
 ![alt text](https://github.com/Harshit001-ctrl/Register-task/blob/150f48b8227b4c0467d21c0f60c8a30d6993e613/register.png)
 
-5 Register Section
+5 Viedo Section
 ![alt text](https://github.com/Harshit001-ctrl/Register-task/blob/3bc2f31d186a94888a382c6ac80a370ed32a091c/viedo%20code.png)
 here live image 
 ![alt text](https://github.com/Harshit001-ctrl/Register-task/blob/3bc2f31d186a94888a382c6ac80a370ed32a091c/viedo.png)
