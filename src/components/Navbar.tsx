@@ -14,7 +14,6 @@ const Navbar: FC = () => {
     <>
       <nav className="bg-blue-900 px-4 py-3">
         <div className="container mx-auto flex justify-end items-center">
-          {/* Contact Information */}
           <div className="text-white flex items-center gap-8">
             <a
               href="mailto:example@email.com"
@@ -34,7 +33,6 @@ const Navbar: FC = () => {
             <span className="text-gray-400">|</span>
           </div>
 
-          {/* Social Media Icons */}
           <div className="flex  space-x-4 text-white ml-8">
             <a
               href="#"
@@ -63,12 +61,11 @@ const Navbar: FC = () => {
 
       <nav className="bg-white py-4 px-6 border-b border-gray-200">
         <div className="container mx-auto flex items-center justify-between">
-          {/* Logo/Name */}
+          
           <div className="text-2xl font-bold text-blue-900 px-5 flex items-center">
             <img src="https://www.registerkaro.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.77348f99.png&w=48&q=75" alt="Register Karo Logo" className="h-15" />
             <span>Register Karo</span>
           </div>
-          {/* Navigation Links */}
           <div className="flex justify-center ml-auto space-x-6">
             <a href="#" className="text-gray-700 hover:text-blue-900">
               Home
@@ -95,7 +92,6 @@ const Navbar: FC = () => {
             </a>
           </div>
 
-          {/* Right Side Elements */}
           <div className="flex items-center space-x-6 ml-8">
             <button className="text-gray-700 hover:text-blue-900">
               <FaSearch className="h-5 w-5" />
