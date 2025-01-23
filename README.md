@@ -1,6 +1,8 @@
 The project is made on React , typeScript , tailwind css 
 install all dependiences like react , luicide icon , react style components
 
+Live link of the project it is deployed on vercel - https://register-task-tq62.vercel.app/ 
+
 First, I share the image of the code and then the image of that particular part on the website.
 1 Main layout
 ![alt text](https://github.com/Harshit001-ctrl/Register-task/blob/101cc9ee413328296a8a2ff8f9940ca20bf53634/app.png)
