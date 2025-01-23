@@ -32,7 +32,7 @@ here live image
 here live image 
 ![alt text](https://github.com/Harshit001-ctrl/Register-task/blob/3bc2f31d186a94888a382c6ac80a370ed32a091c/viedo.png)
 
-6 video section
+6 client section
 ![alt text](https://github.com/Harshit001-ctrl/Register-task/blob/3bc2f31d186a94888a382c6ac80a370ed32a091c/client.png)
 here live image
 ![alt text](https://github.com/Harshit001-ctrl/Register-task/blob/3bc2f31d186a94888a382c6ac80a370ed32a091c/clients%20image.png)
